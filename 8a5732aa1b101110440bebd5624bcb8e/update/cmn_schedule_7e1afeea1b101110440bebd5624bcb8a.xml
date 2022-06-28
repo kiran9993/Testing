@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmn_schedule">
+    <cmn_schedule action="INSERT_OR_UPDATE">
+        <calendar_name>Testing the flow 2</calendar_name>
+        <description>testing</description>
+        <document/>
+        <document_key/>
+        <is_legacy_schedule>true</is_legacy_schedule>
+        <label>Testing the flow 2</label>
+        <name>Testing the flow 2</name>
+        <parent/>
+        <plural_label/>
+        <read_only>false</read_only>
+        <sys_class_name>cmn_schedule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-28 10:08:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7e1afeea1b101110440bebd5624bcb8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Testing the flow 2</sys_name>
+        <sys_package display_value="Testing GitHub" source="x_184628_testgithu">8a5732aa1b101110440bebd5624bcb8e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing GitHub">8a5732aa1b101110440bebd5624bcb8e</sys_scope>
+        <sys_update_name>cmn_schedule_7e1afeea1b101110440bebd5624bcb8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-28 10:08:05</sys_updated_on>
+        <time_zone>US/Arizona</time_zone>
+        <type/>
+    </cmn_schedule>
+</record_update>
